@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://u1uhjgldadgy5xvt:7hj9Pcm1lxg2Bl9fhDxr@bdmax4es5qlcjobbwkvx-mysql.services.clever-cloud.com:3306/bdmax4es5qlcjobbwkvx
-    username: u1uhjgldadgy5xvt
-    password: 7hj9Pcm1lxg2Bl9fhDxr
+    url: jdbc:mysql://localhost:3306/fixtureweb?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+    username: root
+    password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     show-sql: false

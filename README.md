@@ -2,7 +2,6 @@
 
 ![Logo del Proyecto](assets/images/FIFA World Cup Qatar 2022.svg)
 
-
 Este proyecto fue mi primera incursión en el desarrollo mientras cursaba la carrera de Full Stack Developer  en el año 2021. En ese momento, la Copa Mundial de Fútbol aún no se había llevado a cabo, por lo que decidí crear un fixture virtual como proyecto final.
 
 ## Descripción

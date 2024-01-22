@@ -1,6 +1,9 @@
 # Fixture Qatar
 
-![Logo del Proyecto](assets/images/FIFA World Cup Qatar 2022.svg)
+<div align="center">
+  <img src="https://github.com/luifa04/FixtureQatar/blob/main/src/main/resources/static/assets/images/FIFA%20World%20Cup%20Qatar%202022.svg" alt="Logo del Proyecto">
+</div>
+
 
 Este proyecto fue mi primera incursión en el desarrollo mientras cursaba la carrera de Full Stack Developer  en el año 2021. En ese momento, la Copa Mundial de Fútbol aún no se había llevado a cabo, por lo que decidí crear un fixture virtual como proyecto final.
 
@@ -39,9 +42,9 @@ El proyecto "Fixture Qatar" fue desarrollado utilizando las siguientes tecnolog�
 
 Estas tecnologías fueron seleccionadas para garantizar un desarrollo eficiente y robusto de la aplicación, aprovechando las ventajas de Spring Boot y otras herramientas del ecosistema Java.
 
-## Despliegue y Base de Datos en la Nube
+## Despliegue en Render y Gestión de Base de Datos en Clever Cloud
 
-El proyecto "Fixture Martin" ha sido deployado en [Render](https://render.com/), una plataforma de servicios en la nube que simplifica el despliegue de aplicaciones web. La base de datos en la nube está gestionada por [Clever Cloud](https://www.clever-cloud.com/), ofreciendo una solución escalable y confiable para almacenar datos.
+El proyecto "Fixture Qatar" ha sido deployado en [Render](https://render.com/), una plataforma de servicios en la nube que simplifica el despliegue de aplicaciones web. La base de datos en la nube está gestionada por [Clever Cloud](https://www.clever-cloud.com/), ofreciendo una solución escalable y confiable para almacenar datos.
 
 - **URL del Proyecto Desplegado en Render:** [Fixture Qatar](https://fixtureqatar.onrender.com/)
 

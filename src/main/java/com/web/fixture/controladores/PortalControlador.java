@@ -92,7 +92,7 @@ public class PortalControlador {
   //el titulo y la descripcion hay que ponerlo en el index con timeleft
             modelo.put("titulo", "Bienvenido, completa tu FIXTURE QATAR 2022");
             modelo.put("descripcion","El usuario fue registrado con exito");
-            return "/index";
+            return "redirect:/index";
         } catch (ErrorServicio ex) {
 
             modelo.put("error", ex.getMessage());

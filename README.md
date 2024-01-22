@@ -1,7 +1,7 @@
 # Fixture Qatar
 
 <div align="center">
-  ![Logo del Proyecto](assets/images/FIFA World Cup Qatar 2022.svg)
+  <img src="https://github.com/luifa04/FixtureQatar/blob/main/src/main/resources/static/assets/images/FIFA%20World%20Cup%20Qatar%202022.svg" alt="Logo del Proyecto">
 </div>
 
 Este proyecto fue mi primera incursión en el desarrollo mientras cursaba la carrera de Full Stack Developer  en el año 2021. En ese momento, la Copa Mundial de Fútbol aún no se había llevado a cabo, por lo que decidí crear un fixture virtual como proyecto final.

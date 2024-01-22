@@ -89,10 +89,6 @@ public class PortalControlador {
 
         try {
             UsuarioServicio.registrar(archivo, nombre, apellido, mail, clave1, clave2);
-  //el titulo y la descripcion hay que ponerlo en el index con timeleft
-            modelo.put("titulo", "Bienvenido, completa tu FIXTURE QATAR 2022");
-            modelo.put("descripcion","El usuario fue registrado con exito");
-            return "index.html";
         } catch (ErrorServicio ex) {
 
             modelo.put("error", ex.getMessage());

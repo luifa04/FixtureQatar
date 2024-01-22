@@ -89,7 +89,7 @@ public class PortalControlador {
 
         try {
             UsuarioServicio.registrar(archivo, nombre, apellido, mail, clave1, clave2);
-            return "redirect:/";
+            return "login.html";
         } catch (ErrorServicio ex) {
 
             modelo.put("error", ex.getMessage());
